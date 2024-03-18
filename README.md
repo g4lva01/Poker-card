@@ -1,0 +1,1 @@
+Olá nesse projeto simular um Poke_card utilizando HTML, CSS, TyperScript e Angular.
